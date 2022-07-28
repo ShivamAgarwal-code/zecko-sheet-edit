@@ -80,13 +80,13 @@ On successful request, you should see the Raw Data of the first column containin
 ## Screenshots
 
 Setup Google Cloud Credentials :
-![Cloud](https://imgur.com/gallery/igqmGMg)
+![Cloud](WhatsApp Image 2022-07-28 at 10.11.24 PM.jpeg)
 
 Code :
-![Code](https://imgur.com/gallery/OQ2GVgd)
+![Code](WhatsApp Image 2022-07-28 at 10.12.04 PM.jpeg)
 
 Sheet Before Run :
-![Before](https://imgur.com/gallery/EuKDfpI)
+![Before](WhatsApp Image 2022-07-28 at 10.18.59 PM.jpeg)
 
 Sheet After Run :
-![After](https://imgur.com/gallery/NYex4CV)
+![After](WhatsApp Image 2022-07-28 at 10.35.40 PM.jpeg)

@@ -80,7 +80,7 @@ On successful request, you should see the Raw Data of the first column containin
 ## Screenshots
 
 Setup Google Cloud Credentials :
-![Cloud](WhatsApp Image 2022-07-28 at 10.11.24 PM.jpeg)
+![Cloud](https://github.com/ShivamAgarwal-code/zecko-sheet-edit/blob/main/WhatsApp%20Image%202022-07-28%20at%2010.11.24%20PM.jpeg)
 
 Code :
 ![Code](WhatsApp Image 2022-07-28 at 10.12.04 PM.jpeg)
